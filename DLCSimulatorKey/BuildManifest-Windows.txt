@@ -1,0 +1,6 @@
+$NUM_ENTRIES = 4
+$BUILD_ID = DLCSimulatorKey
+pakchunk1000-Windows.pak	9368480	ver	1000	/pakchunk1000/pakchunk1000-Windows.pak
+pakchunk1001-Windows.pak	227291	ver	1001	/pakchunk1001/pakchunk1001-Windows.pak
+pakchunk1002-Windows.pak	1346654	ver	1002	/pakchunk1002/pakchunk1002-Windows.pak
+pakchunk1003-Windows.pak	1815199	ver	1003	/pakchunk1003/pakchunk1003-Windows.pak
